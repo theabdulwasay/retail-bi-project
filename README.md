@@ -476,21 +476,24 @@ Built as a **portfolio / learning project** for end-to-end retail analytics.
 - 📦 Data: fully synthetic (no real customer PII)
 
 ---
-
+ABDUL WASAY
 ### ⭐ If this project helped you
 
 Use it in your portfolio, extend it, and show the full pipeline story — not just the charts.
+<img width="1125" height="393" alt="Screenshot 2026-07-16 224647" src="https://github.com/user-attachments/assets/629d7da3-29df-4645-9f9a-206ffa1b0f6e" />
+<img width="1143" height="798" alt="Screenshot 2026-07-16 224705" src="https://github.com/user-attachments/assets/96a5e712-092c-46c5-bc08-4a6c24866de5" />
+<img width="1146" height="820" alt="Screenshot 2026-07-16 224714" src="https://github.com/user-attachments/assets/537bf082-43cf-4ee3-90d2-f066d0e1381c" />
+<img width="1146" height="820" alt="Screenshot 2026-07-16 224730" src="https://github.com/user-attachments/assets/fcf71055-e85b-45c2-8830-94f911d8aeab" />
+<img width="1146" height="817" alt="Screenshot 2026-07-16 224746" src="https://github.com/user-attachments/assets/dd5ad856-d4ca-4899-ad50-937b959c0739" />
+<img width="1146" height="811" alt="Screenshot 2026-07-16 224756" src="https://github.com/user-attachments/assets/31ea0b20-4683-42c4-a6ae-212edaafc263" />
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/34d929de-74a9-4b90-a1e1-90cba1d8ad30" />
+
+
+
+
+
+
+
 
 **Happy analyzing!** 📊🛍️✨
 
-<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/84a0fc41-eacf-4f3f-a6a4-164acb8422ef" />
-<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/b0da08d1-c180-497c-aeef-24f2c8fe8947" />
-<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/3aabf06f-60a7-4464-a80e-dec03c66ab5a" />
-<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/6fb364bb-c557-484b-bda5-c318c6705fb9" />
-<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/fd68bd3b-a903-4c48-a369-f0e5c5b2e3ad" />
-![Uploading Screenshot 2026-07-16 224805.png…]()
-![Uploading Screenshot 2026-07-16 224805.png…]()
-![Uploading Screenshot 2026-07-16 224805.png…]()
-<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/5c21d909-e094-4981-81c9-d24b11e34749" />
-<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/6359a6eb-e51f-4a41-8ee2-21548d5df25c" />
-<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/25ce368d-9c7a-4902-8f9c-36ca221bb0f3" />
