@@ -1,0 +1,13 @@
+store_id,store_name,city,state,region
+1,Downtown Flagship,New York,NY,Northeast
+2,Westside Mall,Los Angeles,CA,West
+3,Lakeview Plaza,Chicago,IL,Midwest
+4,Riverside Center,Houston,TX,South
+5,Old Town Square,Philadelphia,PA,Northeast
+6,Harbor Point,Seattle,WA,West
+7,Sunset Boulevard,Miami,FL,South
+8,Union Station Hub,Denver,CO,West
+9,Peachtree Market,Atlanta,GA,South
+10,Commons Galleria,Boston,MA,Northeast
+11,Twin Cities Depot,Minneapolis,MN,Midwest
+12,Desert Gateway,Phoenix,AZ,West

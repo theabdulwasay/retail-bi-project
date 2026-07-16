@@ -1,0 +1,81 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost
+1000,Wireless Earbuds,Electronics,Audio,OrbitOne,32.27,19.19
+1001,Bluetooth Speaker,Electronics,Audio,TechNova,59.68,35.39
+1002,Phone Charger,Electronics,Accessories,OrbitOne,186.45,98.81
+1003,Smart Watch,Electronics,Wearables,OrbitOne,108.36,38.99
+1004,USB-C Cable,Electronics,Accessories,TechNova,61.99,34.01
+1005,Tablet Stand,Electronics,Accessories,OrbitOne,53.71,30.32
+1006,Noise-Cancel Headphones,Electronics,Audio,OrbitOne,107.77,53.7
+1007,Power Bank 20k,Electronics,Accessories,PulseGear,203.3,71.59
+1008,Wireless Mouse,Electronics,Computing,TechNova,176.03,81.38
+1009,USB Hub 7-port,Electronics,Computing,TechNova,57.74,34.76
+1010,Cotton T-Shirt,Apparel,Tops,UrbanThread,27.71,10.58
+1011,Denim Jeans,Apparel,Bottoms,TrailFit,152.9,94.24
+1012,Running Shoes,Apparel,Footwear,Northloom,117.55,45.98
+1013,Wool Sweater,Apparel,Tops,TrailFit,24.3,10.86
+1014,Rain Jacket,Apparel,Outerwear,Northloom,156.53,99.3
+1015,Athletic Shorts,Apparel,Bottoms,Northloom,52.1,19.43
+1016,Baseball Cap,Apparel,Accessories,Northloom,60.83,27.1
+1017,Hiking Boots,Apparel,Footwear,UrbanThread,214.54,136.43
+1018,Fleece Hoodie,Apparel,Tops,TrailFit,73.09,40.91
+1019,Yoga Leggings,Apparel,Bottoms,TrailFit,44.84,20.95
+1020,Ceramic Mug,Home,Kitchen,LumenHome,70.4,46.4
+1021,Throw Pillow,Home,Living,LumenHome,22.48,12.58
+1022,LED Desk Lamp,Home,Lighting,LumenHome,183.63,74.17
+1023,Bath Towel Set,Home,Bath,Nestline,71.13,46.62
+1024,Scented Candle,Home,Decor,LumenHome,141.44,81.46
+1025,Storage Baskets,Home,Organization,Hearth & Co,61.11,22.04
+1026,Cookware Set,Home,Kitchen,Nestline,103.28,38.4
+1027,Area Rug 5x7,Home,Living,LumenHome,219.7,99.71
+1028,Wall Clock,Home,Decor,LumenHome,127.3,81.72
+1029,Sheet Set Queen,Home,Bedding,LumenHome,117.41,51.36
+1030,Organic Coffee 12oz,Grocery,Beverages,GreenPantry,187.51,98.98
+1031,Almond Butter 16oz,Grocery,Pantry,DailyGrove,148.21,95.79
+1032,Sparkling Water 12pk,Grocery,Beverages,HarvestBox,93.68,63.62
+1033,Granola Bars 8pk,Grocery,Snacks,GreenPantry,129.82,49.33
+1034,Olive Oil 1L,Grocery,Pantry,GreenPantry,215.96,86.48
+1035,Trail Mix 1lb,Grocery,Snacks,GreenPantry,199.05,97.4
+1036,Green Tea 20ct,Grocery,Beverages,GreenPantry,99.26,54.26
+1037,Pasta Sauce 24oz,Grocery,Pantry,HarvestBox,134.62,90.26
+1038,Dark Chocolate Bar,Grocery,Snacks,GreenPantry,171.66,66.57
+1039,Honey 16oz,Grocery,Pantry,DailyGrove,188.96,114.06
+1040,Face Moisturizer,Beauty,Skincare,PureAura,32.32,15.95
+1041,Shampoo 500ml,Beauty,Hair,PureAura,5.79,3.41
+1042,Lip Balm,Beauty,Makeup,VelvetSkin,69.52,35.82
+1043,Sunscreen SPF50,Beauty,Skincare,GlowLab,129.37,49.82
+1044,Hand Cream,Beauty,Skincare,VelvetSkin,78.11,43.81
+1045,Body Wash,Beauty,Bath,VelvetSkin,53.72,25.43
+1046,Mascara,Beauty,Makeup,GlowLab,137.14,83.24
+1047,Hair Conditioner,Beauty,Hair,VelvetSkin,230.02,125.97
+1048,Face Serum,Beauty,Skincare,PureAura,9.76,6.41
+1049,Nail Polish Set,Beauty,Makeup,PureAura,63.66,27.34
+1050,Yoga Mat,Sports,Fitness,Altitude,236.99,89.65
+1051,Resistance Bands,Sports,Fitness,CourtPro,204.92,137.86
+1052,Soccer Ball,Sports,Team Sports,Altitude,192.62,75.58
+1053,Tennis Racket,Sports,Racket,CourtPro,236.97,95.85
+1054,Dumbbell Pair 10lb,Sports,Fitness,Altitude,218.74,107.1
+1055,Water Bottle 32oz,Sports,Accessories,PeakMotion,232.57,139.36
+1056,Bike Helmet,Sports,Cycling,Altitude,54.27,24.58
+1057,Jump Rope,Sports,Fitness,Altitude,164.21,81.21
+1058,Basketball,Sports,Team Sports,Altitude,115.6,49.92
+1059,Gym Bag,Sports,Accessories,PeakMotion,87.82,47.79
+1060,Building Blocks 100pc,Toys,Building,PlayOrbit,149.16,52.56
+1061,Board Game Classic,Toys,Games,WonderBox,159.61,67.92
+1062,Plush Bear,Toys,Plush,PlayOrbit,215.6,80.5
+1063,RC Car,Toys,Vehicles,PlayOrbit,73.22,37.36
+1064,Puzzle 500pc,Toys,Puzzles,WonderBox,37.41,24.64
+1065,Art Kit Junior,Toys,Creative,WonderBox,146.16,62.88
+1066,Action Figure,Toys,Figures,KidCraft,202.83,83.74
+1067,STEM Robot Kit,Toys,STEM,PlayOrbit,166.44,77.71
+1068,Card Game Pack,Toys,Games,KidCraft,119.41,70.52
+1069,Bubble Machine,Toys,Outdoor,WonderBox,165.09,92.99
+1070,Notebook A5,Office,Stationery,DeskWise,103.63,47.87
+1071,Gel Pen 12pk,Office,Writing,DeskWise,65.91,27.21
+1072,Desk Organizer,Office,Organization,InkForge,39.33,16.15
+1073,Wireless Keyboard,Office,Tech,InkForge,66.19,43.33
+1074,Sticky Notes 6pk,Office,Stationery,InkForge,202.96,128.37
+1075,Laptop Sleeve 15in,Office,Accessories,DeskWise,17.38,11.81
+1076,Monitor Light Bar,Office,Tech,DeskWise,242.39,158.94
+1077,File Folders 25pk,Office,Organization,DeskWise,45.74,23.34
+1078,Highlighter Set,Office,Writing,DeskWise,216.83,140.46
+1079,Ergo Desk Chair Mat,Office,Accessories,DeskWise,97.84,66.06
