@@ -482,3 +482,15 @@ Built as a **portfolio / learning project** for end-to-end retail analytics.
 Use it in your portfolio, extend it, and show the full pipeline story — not just the charts.
 
 **Happy analyzing!** 📊🛍️✨
+
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/84a0fc41-eacf-4f3f-a6a4-164acb8422ef" />
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/b0da08d1-c180-497c-aeef-24f2c8fe8947" />
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/3aabf06f-60a7-4464-a80e-dec03c66ab5a" />
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/6fb364bb-c557-484b-bda5-c318c6705fb9" />
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/fd68bd3b-a903-4c48-a369-f0e5c5b2e3ad" />
+![Uploading Screenshot 2026-07-16 224805.png…]()
+![Uploading Screenshot 2026-07-16 224805.png…]()
+![Uploading Screenshot 2026-07-16 224805.png…]()
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/5c21d909-e094-4981-81c9-d24b11e34749" />
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/6359a6eb-e51f-4a41-8ee2-21548d5df25c" />
+<img width="1144" height="818" alt="Screenshot 2026-07-16 224805" src="https://github.com/user-attachments/assets/25ce368d-9c7a-4902-8f9c-36ca221bb0f3" />
